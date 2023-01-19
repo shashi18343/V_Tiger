@@ -7,6 +7,8 @@ public class SamplePP1Test {
 		System.out.println("hello");
 		
 		System.out.println("goood morning lead");
+		System.out.println("goood morning lead");
+		System.out.println("goood morning lead");
 		
 	}
 
