@@ -11,6 +11,6 @@ public class CreateNewTest {
   @Test
   public void createTest2()
   {
-	  System.out.println("=========build is varified and done=========");
+	  System.out.println("=========this build is varified and done=========");
   }
 }
