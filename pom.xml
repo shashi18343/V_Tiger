@@ -67,7 +67,7 @@
   <profiles>
 	  <profile>
 		
-		 <id>regression</id>
+		 <id>dev</id>
 	  
   <build>
 	  <pluginManagement>
@@ -91,7 +91,7 @@
   
   	  <profile>
 		
-		 <id>smoke</id>
+		 <id>prod</id>
 	  
   <build>
 	  <pluginManagement>
